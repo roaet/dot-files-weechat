@@ -1,3 +1,4 @@
 README*
 .git*
 sync
+exclude-list.txt
